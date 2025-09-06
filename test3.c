@@ -14,9 +14,7 @@ int main()
             scanf("%d",&matrix[i][j]); 
         }
     }
-/*Complete the code to print the sum of each rows. Use the printf() statement as
- printf("%d\n",sum); Where sum is the sum of a row. 
-*/
+
 
 for(i=0;i< r;i++) 
     {
@@ -29,4 +27,5 @@ for(i=0;i< r;i++)
     }
 
 return 0;
+
 }
